@@ -1,0 +1,153 @@
+[
+    {
+        "id": 1,
+        "model_name":"PRODUCT",
+        "model_id": "A4llkID7jODO1lB8C7iX",
+        "path": "https://firebasestorage.googleapis.com/v0/b/clothingstore-741c3.appspot.com/o/products%2Fpro3_2.jpg?alt=media&token=95821ef3-1491-4ae0-8a6e-924ec6c6db2e"
+    },
+    {
+        "id": 2,
+        "model_name":"PRODUCT",
+        "model_id": "A4llkID7jODO1lB8C7iX",
+        "path": "https://firebasestorage.googleapis.com/v0/b/clothingstore-741c3.appspot.com/o/products%2Fpro3_3.jpg?alt=media&token=f564d2b1-f8ee-466a-b072-c7a32ecbc331"
+    },
+    {
+        "id": 3,
+        "model_name":"PRODUCT",
+        "model_id": "A4llkID7jODO1lB8C7iX",
+        "path": "https://cvf.shopee.vn/file/6954d6a170dca25fcc8beba15790a018"
+    },
+    {
+        "id": 4,
+        "model_name":"PRODUCT",
+        "model_id": "A4llkID7jODO1lB8C7iX",
+        "path": "https://firebasestorage.googleapis.com/v0/b/clothingstore-741c3.appspot.com/o/products%2Fpro3_1.jpg?alt=media&token=02d4c1f3-7f73-48fc-944f-dbebfdd1ae8d"
+    },
+    {
+        "id": 5,
+        "model_name":"PRODUCT",
+        "model_id": "CCkfoahsmDUhmLIlIhfY",
+        "path": "https://firebasestorage.googleapis.com/v0/b/clothingstore-741c3.appspot.com/o/products%2Fpro2_3.jpg?alt=media&token=e1224c40-179b-49c2-a2ed-2db3931e1671"
+    },
+    {
+        "id": 6,
+        "model_name":"PRODUCT",
+        "model_id": "CCkfoahsmDUhmLIlIhfY",
+        "path": "https://firebasestorage.googleapis.com/v0/b/clothingstore-741c3.appspot.com/o/products%2Fpro2_4.jpg?alt=media&token=a5f2020a-492f-48dc-8b2d-47926102a755"
+    },
+    {
+        "id": 7,
+        "model_name":"PRODUCT",
+        "model_id": "CCkfoahsmDUhmLIlIhfY",
+        "path": "https://firebasestorage.googleapis.com/v0/b/clothingstore-741c3.appspot.com/o/products%2Fpro2_2.jpg?alt=media&token=2e0778b7-f34d-4e97-a684-23c798fbb9a4"
+    },
+    {
+        "id": 8,
+        "model_name":"PRODUCT",
+        "model_id": "DQkA6D2dMRgkjigEDP4z",
+        "path": "https://firebasestorage.googleapis.com/v0/b/clothingstore-741c3.appspot.com/o/products%2Fpro4_1.jpg?alt=media&token=d280fb09-91a1-4191-a633-f5e81b60e22a"
+    },
+    {
+        "id": 9,
+        "model_name":"PRODUCT",
+        "model_id": "DQkA6D2dMRgkjigEDP4z",
+        "path": "https://firebasestorage.googleapis.com/v0/b/clothingstore-741c3.appspot.com/o/products%2Fpro4.jpg?alt=media&token=6765c87c-c6d1-47cd-9e50-7186351eca3c"
+    },
+    {
+        "id": 10,
+        "model_name":"PRODUCT",
+        "model_id": "WOTw3c172FujfOsgyQPa",
+        "path": "https://firebasestorage.googleapis.com/v0/b/clothingstore-741c3.appspot.com/o/products%2Fanh1.3.jpg?alt=media&token=c9f14a92-db8d-4906-9caa-09e8253f28b2"
+    },
+    {
+        "id": 11,
+        "model_name":"PRODUCT",
+        "model_id": "WOTw3c172FujfOsgyQPa",
+        "path": "https://firebasestorage.googleapis.com/v0/b/clothingstore-741c3.appspot.com/o/products%2Fanh1.2.jpg?alt=media&token=1e62f4f3-bb57-45a7-b7a2-2d9f79ecfcc9"
+    },
+    {
+        "id": 12,
+        "model_name":"PRODUCT",
+        "model_id": "YGefCyQ30rlTLhFfFkSw",
+        "path": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lplukyh634grc3"
+    },
+    {
+        "id": 13,
+        "model_name":"PRODUCT",
+        "model_id": "YGefCyQ30rlTLhFfFkSw",
+        "path": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lpls1le1kv2zec"
+    },
+    {
+        "id": 14,
+        "model_name":"PRODUCT",
+        "model_id": "YGefCyQ30rlTLhFfFkSw",
+        "path": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lpls1le1no7vdb"
+    },
+    {
+        "id": 15,
+        "model_name":"PRODUCT",
+        "model_id": "sOjyABWtdaBaUYPRFSDn",
+        "path": "https://firebasestorage.googleapis.com/v0/b/clothingstore-741c3.appspot.com/o/products%2Fpro1_3.jpg?alt=media&token=4408e188-7626-4f9c-a063-10b29b42c11d"
+    },
+    {
+        "id": 16,
+        "model_name":"PRODUCT",
+        "model_id": "sOjyABWtdaBaUYPRFSDn",
+        "path": "https://firebasestorage.googleapis.com/v0/b/clothingstore-741c3.appspot.com/o/products%2Fvn-11134207-7r98o-lnodjyxsn0je0e.jpg?alt=media&token=6eb90abe-8da2-4825-8964-45c66749361b"
+    },
+    {
+        "id": 17,
+        "model_name":"PRODUCT",
+        "model_id": "sOjyABWtdaBaUYPRFSDn",
+        "path": "https://firebasestorage.googleapis.com/v0/b/clothingstore-741c3.appspot.com/o/products%2Fpro1_2.jpg?alt=media&token=dcf7d61c-259d-4888-bb94-2850745eb7e5"
+    },
+    {
+        "id": 18,
+        "model_name":"PRODUCT",
+        "model_id": "tb7sjbnpDzEIdDN6J196",
+        "path": "https://down-vn.img.susercontent.com/file/4feadf56e897c7ad81717f3434e66fcc"
+    },
+    {
+        "id": 19,
+        "model_name":"PRODUCT",
+        "model_id": "tb7sjbnpDzEIdDN6J196",
+        "path": "https://down-vn.img.susercontent.com/file/6dce922510273320c7ddfa4da47ae053"
+    },
+    {
+        "id": 20,
+        "model_name":"PRODUCT",
+        "model_id": "tb7sjbnpDzEIdDN6J196",
+        "path": "https://down-vn.img.susercontent.com/file/c336949f3d767dba438abbaf0ba03204"
+    },
+    {
+        "id": 21,
+        "model_name":"PRODUCT",
+        "model_id": "tgCQgTmmEv8cfflthSD0",
+        "path": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-wct5999qzdlvae"
+    },
+    {
+        "id": 22,
+        "model_name":"PRODUCT",
+        "model_id": "tgCQgTmmEv8cfflthSD0",
+        "path": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhu10b8voux11c"
+    },
+    {
+        "id": 23,
+        "model_name":"PRODUCT",
+        "model_id": "tgCQgTmmEv8cfflthSD0",
+        "path": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-lnl4309qzdlvfe"
+    },
+    {
+        "id": 24,
+        "model_name":"PRODUCT",
+        "model_id": "tgCQgTmmEv8cfflthSD0",
+        "path": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-f1had69qzdlv79"
+    },
+
+    {
+        "id": 25,
+        "model_name":"PRODUCT",
+        "model_id": "tgCQgTmmEv8cfflthSD0",
+        "path": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-sa26e99qzdlv94"
+    }
+]

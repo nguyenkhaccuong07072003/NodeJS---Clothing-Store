@@ -1,0 +1,17 @@
+{
+    "permissions": [
+      { "name": "create_user", "display_name": "Create User" },
+      { "name": "delete_user", "display_name": "Delete User" }
+    ],
+    "roles": [
+      { "name": "admin", "display_name": "Administrator" },
+      { "name": "moderator", "display_name": "Moderator" },
+      { "name": "user", "display_name": "Customer" }
+    ],
+    "roleHasPermission": [
+      { "role_name": "admin", "permission_name": "create_user" },
+      { "role_name": "admin", "permission_name": "delete_user" },
+      { "role_name": "moderator", "permission_name": "create_user" }
+    ]
+  }
+  
