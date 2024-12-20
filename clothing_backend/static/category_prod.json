@@ -1,0 +1,47 @@
+[
+    {
+        "product_id":"1999325564474",
+        "category_id":2
+    },
+    {
+        "product_id":"6160665053484",
+        "category_id":1
+    },
+    {
+        "product_id":"6160665053484",
+        "category_id":3
+    },
+    {
+        "product_id":"7479948481630",
+        "category_id":1
+    },
+    {
+        "product_id":"6756519147357",
+        "category_id":3
+    },
+    {
+        "product_id":"5025917022414",
+        "category_id":3
+    },
+    {
+        "product_id":"5025917022414",
+        "category_id":2
+    },
+    {
+        "product_id":"5025917022414",
+        "category_id":4
+    },
+    {
+        "product_id":"5864662778722",
+        "category_id":3
+    },
+    {
+        "product_id":"6661498719221",
+        "category_id":2
+    },
+    {
+        "product_id":"1414605273940",
+        "category_id":4
+    }
+
+]
